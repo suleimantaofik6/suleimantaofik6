@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Taofik Ahmed suleiman
 - 👀 I’m interested in Medical Imaging, and Applications: Machine Learning | Pattern Recognition | Computer Vision | Image Processing | Computer-Aided Surgery and Medical Robotics | Sensors, and Acquisition |
-- 🌱 I’m currently learning Data Science, and AI (Statistics, Data Analysis, Visualization, Machine Learning and Deep Learning)
-- 💞️ I’m looking to collaborate on Data Science related projects
+- 🌱 I’m a Data Science, and AI enthusiast (Statistics, Data Analysis, Visualization, Machine Learning and Deep Learning)
+- 💞️ I’m looking to collaborate with researchers on medical imaging related projects
 - 📫 Reach me at suleimantaofik6@gmail.com
 
 <!---
