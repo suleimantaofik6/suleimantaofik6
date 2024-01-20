@@ -32,15 +32,15 @@ I am proficient in the following tools and technologies:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Microsoft Packages
-- ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-1645ed?style=for-the-badge&logo=microsoft-word&logoColor=white)
-- ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-1645ed?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ## DL/ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Monai](https://img.shields.io/badge/Monai-2672EC?style=for-the-badge&logo=monai&logoColor=white)
+- ![Monai](https://img.shields.io/badge/Monai-2672EC?style=for-the-badge&logo=monai&logoColor=white)
 ![Segment Models](https://img.shields.io/badge/Segment%20Models-34D058?style=for-the-badge&logo=medical&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
@@ -56,7 +56,7 @@ I am proficient in the following tools and technologies:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-29B6F6?style=for-the-badge&logo=r&logoColor=white)
-![Caret](https://img.shields.io/badge/Caret-FFA000?style=for-the-badge&logo=r&logoColor=white)
+- ![Caret](https://img.shields.io/badge/Caret-FFA000?style=for-the-badge&logo=r&logoColor=white)
 
 ## Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-263238?style=for-the-badge&logo=matplotlib&logoColor=white)
