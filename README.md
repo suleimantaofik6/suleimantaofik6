@@ -1,17 +1,30 @@
 # Hi there, I'm Taofik Ahmed Suleiman 👋
 
 ## About Me
-- 👀 I'm passionate about Medical Imaging and its applications, focusing on areas like Machine Learning, Pattern Recognition, Computer Vision, Image Processing, Computer-Aided Surgery, Medical Robotics, Sensors, and Acquisition.
-- 🌱 As a Data Science and AI enthusiast, I love working on projects in areas involving in Statistics, Data Analysis, Visualization, Machine Learning, and Deep Learning.
+👀 Passionate about **Medical Imaging** and its applications, with a focus on:
+- Machine Learning
+- Pattern Recognition
+- Computer Vision
+- Image Processing
+- Computer-Aided Surgery
+- Medical Robotics
+- Sensors and Acquisition.
+
+🌱 As a **Data Science and AI enthusiast**, I love working on projects in areas involving:
+- Statistics
+- Data Analysis
+- Visualization
+- Machine Learning
+- Deep Learning.
 
 ## Collaboration
-- 💞️ I'm actively seeking collaboration opportunities with researchers on projects related to medical imaging. Let's connect!
+💞️ Actively seeking collaboration opportunities with researchers on projects related to **medical imaging**. Let's connect!
 
-📧 **Email:** suleimantaofik6@gmail.com
+📧 **Email:** [![Email](https://img.shields.io/badge/Email-suleimantaofik6%40gmail.com-43B02A?style=flat-square&logo=gmail&logoColor=white)](mailto:suleimantaofik6@gmail.com)
+
+🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taofik%20Ahmed%20Suleiman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taofik-ahmed-suleiman-149ab914b/)
 
 # Skills and Tools
-I am proficient in the following tools and technologies:
-
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
