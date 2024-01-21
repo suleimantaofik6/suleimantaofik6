@@ -1,7 +1,8 @@
-# Hi there, I'm Taofik Ahmed Suleiman 👋
+# Hi, I'm Taofik 👋
 
-## About Me
-👀 Passionate about **Medical Imaging** and its applications, with a focus on AI, Medical image analysis, Segmentation, Classification, 3D Reconstruction, Registration, Domain Adaptation, and Disease Detection
+## Graduate Student in Medical Imaging and Applications
+👀 I am passionate about **Medical Imaging, and AI**, with a focus on:
+* AI, Medical image analysis, Segmentation, Classification, 3D Reconstruction, Registration, Domain Adaptation, and Disease Detection
 
 🌱 As a **Data Science and AI enthusiast**, I love working on projects in areas involving:
 - Statistics
