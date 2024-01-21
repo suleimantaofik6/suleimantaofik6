@@ -74,9 +74,7 @@
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-## GitHub Contribution Graph
-![GitHub Contributions](https://github.com/suleimantaofik6/suleimantaofik6/blob/main/github-contribution-graph.png)
-
+## GitHub Stats and Top Languages
 <!-- GitHub Stats -->
 ![Taofik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suleimantaofik6&show_icons=true&theme=merko&hide=issues,contribs&title=Taofik's%20GitHub%20Stats&hide_title=false&bg_color=30,4A00E0,9333EA&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suleimantaofik6&layout=compact&theme=merko&bg_color=30,4A00E0,9333EA&title_color=FFFFFF&text_color=FFFFFF)
