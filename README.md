@@ -2,14 +2,13 @@
 
 ## Graduate Student in Medical Imaging and Applications
 👀 I am passionate about **Medical Imaging, and AI**, with a focus on:
-* AI, Medical image analysis, Segmentation, Classification, 3D Reconstruction, Registration, Domain Adaptation, and Disease Detection
-
-🌱 As a **Data Science and AI enthusiast**, I love working on projects in areas involving:
-- Statistics
-- Data Analysis
-- Visualization
-- Machine Learning
-- Deep Learning
+- Medical image analysis
+- Segmentation
+- Classification
+- 3D Reconstruction
+- Registration
+- Domain Adaptation
+- Disease Detection
 
 ## Collaboration
 💞️ Actively seeking collaboration opportunities with researchers on projects related to **medical imaging**. Let's connect!
