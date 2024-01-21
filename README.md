@@ -37,8 +37,8 @@ I am proficient in the following tools and technologies:
 ## Data Manipulation and Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyverse-29B6F6?style=for-the-badge&logo=r&logoColor=white)
 
+![Tidyverse](https://img.shields.io/badge/Tidyverse-29B6F6?style=for-the-badge&logo=r&logoColor=white)
 ![Caret](https://img.shields.io/badge/Caret-FFA000?style=for-the-badge&logo=r&logoColor=white)
 
 ## Visualization
