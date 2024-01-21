@@ -1,21 +1,14 @@
 # Hi there, I'm Taofik Ahmed Suleiman 👋
 
 ## About Me
-👀 Passionate about **Medical Imaging** and its applications, with a focus on:
-- Machine Learning
-- Pattern Recognition
-- Computer Vision
-- Image Processing
-- Computer-Aided Surgery
-- Medical Robotics
-- Sensors and Acquisition.
+👀 Passionate about **Medical Imaging** and its applications, with a focus on AI, Medical image analysis, Segmentation, Classification, 3D Reconstruction, Registration, Domain Adaptation, and Disease Detection
 
 🌱 As a **Data Science and AI enthusiast**, I love working on projects in areas involving:
 - Statistics
 - Data Analysis
 - Visualization
 - Machine Learning
-- Deep Learning.
+- Deep Learning
 
 ## Collaboration
 💞️ Actively seeking collaboration opportunities with researchers on projects related to **medical imaging**. Let's connect!
