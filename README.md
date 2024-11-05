@@ -1,7 +1,8 @@
 # Hi, I'm Taofik 👋
 
-## Graduate Student in Medical Imaging and Applications
+## Joint PhD Student in Biomedical Engineering at Georgia Institute of Technology and Emory University
 👀 I am passionate about **Medical Imaging, and AI**, with a focus on:
+- Radiomics, and Machine Learning
 - Medical image analysis
 - Segmentation
 - Classification
